@@ -1,4 +1,5 @@
 pip install streamlit reportlab
+pip install reportlab
 import streamlit as st
 from reportlab.lib.pagesizes import A4
 from reportlab.lib import colors
